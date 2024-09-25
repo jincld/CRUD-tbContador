@@ -64,7 +64,7 @@ public class Contadores {
     public void setCORREO_CONTADOR(String CORREO_CONTADOR) {
         this.CORREO_CONTADOR = CORREO_CONTADOR;
     }
-    
+    //prueba
     public void Guardar() {
         //Creamos una variable igual a ejecutar el método de la clase de conexión
         Connection conexion = claseConexion.getConexion();
